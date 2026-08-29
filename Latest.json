@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "url": "https://github.com/msultanulhaq/auto-video-editor-updates/releases/download/v2.0.0/EnigmaVerseStudio_Setup.exe",
-  "notes": "Fixing bugs for bulk video generations and improved GUI & add device-id to get support and auto scene detect Feature add b-roll auto editor and voice Cloning to generate unlimited voices  "
+  "version": "2.0.1",
+  "url": "https://github.com/msultanulhaq/auto-video-editor-updates/releases/download/v2.0.1/EnigmaVerseStudio_Setup.exe",
+  "notes": "User friendly ui and ading features for the ai-tools "
 }
