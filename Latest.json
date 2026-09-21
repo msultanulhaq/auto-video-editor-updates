@@ -1,5 +1,5 @@
 {
   "version": "2.0.2",
   "url": "https://drive.google.com/drive/folders/1UnJA0WW-Z8a6Y8TKKEeN867PygDC5lkD?usp=sharing",
-  "notes": "User friendly ui and ading features for the ai-tools "
+  "notes": "New:\n\nMulti-transition system (both modes)\nGPU-accelerated Whisper transcription\nMultilingual footage matching\nBatch mode for long narrations\nAuto scene detection (Gemini)\nAuto file extension handling\nStartup dependency checker\nSelf-healing Gemini model selection\nDisk-space pre-flight check\nAuto temp folder cleanup\n\nFixed:\n\nGemini key rotation bug\nAuto-retry on network errors\nVideo From Scratch GPU encoding\nFootage sync/timing drift\nNever-drop-time on missing footage\nBetter fallback search keywords\n1080p minimum quality filter\nRemoved unwanted crop black bars\nMissing VAD model file\nBundled CUDA libraries for GPU\nFriendly error messages"
 }
